@@ -3,7 +3,7 @@
 # Heading 1
 ## Heading 2
 [Link](https://ucsd-cse15l-s24.github.io/week1/index.html)
-![Image](http://url/a.png)
+![Image](https://today.ucsd.edu/news_uploads/_social/img-primary-Geisel-UCSanDiego-ErikJepsen-090922.jpg)
 > BlockTest
 * List1
 * List2
