@@ -13,5 +13,5 @@ Command Examples for `cd`:
 
   The output is not an error.
 
-  * Share an example of using the command with a path to a directory as an argument.
+* Share an example of using the command with a path to a directory as an argument.
   
