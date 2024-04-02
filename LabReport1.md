@@ -3,4 +3,3 @@
 *Author: Yuxiang Hong*
 
 Commond Example for cd:
-![Image](cdNopara.png)
