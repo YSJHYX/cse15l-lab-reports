@@ -33,10 +33,13 @@ Command Examples for `ls`:
 Command Examples for `cat`:
 
 * Share an example of using the command with no arguments.
+
 ![Image](catNoPara.jpg)
 
 * Share an example of using the command with a path to a directory as an argument.
+
 ![Image](catDic.jpg)
 
 * Share an example of using the command with a path to a file as an argument.
+
 ![Image](catFile.jpg)
