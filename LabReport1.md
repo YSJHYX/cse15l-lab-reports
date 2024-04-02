@@ -2,7 +2,7 @@
 
 *Author: Yuxiang Hong*
 
-Command Example for `cd`:
+Command Examples for `cd`:
 
 * Share an example of using the command with no arguments.
 ![Image](cdNoPara.jpg)
@@ -12,3 +12,6 @@ Command Example for `cd`:
   In order to get this output, I run `pwd` to print working directory. Since I using `cd` without argument, it directs me to my home directory.
 
   The output is not an error.
+
+  * Share an example of using the command with a path to a directory as an argument.
+  
