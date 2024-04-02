@@ -2,5 +2,5 @@
 
 *Author: Yuxiang Hong*
 
-Commond Example for cd:
+Commond Example for 'cd':
 ![Image](cdNoPara.jpg)
