@@ -54,6 +54,8 @@ Command Examples for `ls`:
 * Share an example of using the command with a path to a file as an argument.
 ![Image](lsFile.jpg)
 
+  The **absolute path** is `/Users/harry`
+
 Command Examples for `cat`:
 
 * Share an example of using the command with no arguments.
