@@ -16,7 +16,7 @@ Command Examples for `cd`:
 * Share an example of using the command with a path to a directory as an argument.
 ![Image](cdDic.jpg)
 
-  The **absolute path** is `/Users/harry/lecture1`
+  The **absolute path** is `/Users/harry`
 
   The system changed the current working directory to the argument directory.
 
