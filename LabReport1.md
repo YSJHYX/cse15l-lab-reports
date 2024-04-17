@@ -7,7 +7,7 @@ Command Examples for `cd`:
 * Share an example of using the command with no arguments.
 ![Image](cdNoPara.jpg)
 
-  The **absolute path** is `/Users/harry`
+  The **absolute path** is `/Users/harry/lecture1`
 
   If I used `cd` without argument, the system changed the current working directory to my home directory.
 
